@@ -1,0 +1,3 @@
+com\mvn\jee\web\control\GreetingService.class
+com\mvn\jee\web\boundary\JavaEE8Resource.class
+com\mvn\jee\web\JAXRSConfiguration.class
